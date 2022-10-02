@@ -29,6 +29,15 @@ h3{
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
 }
+.sub{
+  color: #66BFBF;
+  width: 50%;
+  font-size: 110%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 p{
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
